@@ -12,7 +12,7 @@ BizMan is a **business landing page with a dashboard**, providing essential feat
 - **Authentication** (Login & Signup functionality)
 - **Business Dashboard** for managing invoices, analytics, and AI-based recommendations
 
-  ![Dashboard](src/assets/bizmanDashboard.png)
+  ![Dashboard](src/assets/bizmanDasboard.png)
 
 - **Responsive Design** using Tailwind CSS
 - **AI Integration** (Help from ChatGPT for content and coding guidance)
