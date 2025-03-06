@@ -19,7 +19,7 @@ BizMan is a **business landing page with a dashboard**, providing essential feat
 
 ## 🚀 Deployment
 This project is deployed on **Vercel**.
-🔗 [Live Demo](https://your-vercel-deployment-link.vercel.app/) 
+🔗 [Live Demo](https://bizman.vercel.app/) 
 
 ## 📖 Installation & Setup
 If you want to run this project locally, follow these steps:
