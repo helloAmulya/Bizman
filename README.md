@@ -6,11 +6,14 @@
 BizMan is a **business landing page with a dashboard**, providing essential features like **login, signup**, and business tools to manage invoices, analytics, and AI-powered insights. This project was developed as an **assignment** to enhance full-stack development skills using **React.js and Tailwind CSS**.
 
 ## 🌟 Features
-![Features](./assets/bizman2.png)
+![Features](src/assets/bizman2.png)
 
 - **Landing Page** with modern UI/UX design
 - **Authentication** (Login & Signup functionality)
 - **Business Dashboard** for managing invoices, analytics, and AI-based recommendations
+
+  ![Dashboard](src/assets/bizmanDashboard.png)
+
 - **Responsive Design** using Tailwind CSS
 - **AI Integration** (Help from ChatGPT for content and coding guidance)
 - **Deployed on Vercel** for easy accessibility
@@ -22,7 +25,7 @@ BizMan is a **business landing page with a dashboard**, providing essential feat
 - **Vercel** (Deployment platform)
 
 ## 📊 Business Solutions
-![Solutions](./assets/bizman3.png)
+![Solutions](src/assets/bizman3.png)
 
 ## 🚀 Deployment
 This project is deployed on **Vercel**.  
