@@ -1,6 +1,6 @@
 # BizMan - Business Landing Page & Dashboard
 
-![BizMan Landing](./assets/bizman1.png)
+![BizMan Landing](https://raw.githubusercontent.com/helloAmulya/repository/main/assets/bizman1.png)
 
 ## 🚀 Project Overview
 BizMan is a **business landing page with a dashboard**, providing essential features like **login, signup**, and business tools to manage invoices, analytics, and AI-powered insights. This project was developed as an **assignment** to enhance full-stack development skills using **React.js and Tailwind CSS**.
